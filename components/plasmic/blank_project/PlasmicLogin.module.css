@@ -1,0 +1,309 @@
+.root {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  width: 100%;
+  height: 100%;
+  overflow-x: hidden;
+  justify-content: center;
+  align-items: center;
+  min-width: 0;
+  min-height: 0;
+}
+._ {
+  background: rgba(16, 16, 16, 1);
+  width: 375px;
+  height: 812px;
+  display: block;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.svg__bu8Pk {
+  position: absolute;
+  object-fit: cover;
+  max-width: 100%;
+  color: #111;
+  width: 375px;
+  height: 812px;
+  display: block;
+  top: 0%;
+  left: 0%;
+}
+.btnLoginAuth {
+  background: rgba(27, 27, 27, 1);
+  opacity: 0.85;
+  height: 48px;
+  display: block;
+  position: absolute;
+  left: 20px;
+  right: 20px;
+  bottom: 20px;
+  overflow: hidden;
+  border-radius: 8px;
+}
+.btnContents {
+  width: 211px;
+  height: 24px;
+  display: block;
+  position: absolute;
+  top: 12px;
+  left: 62px;
+  overflow: hidden;
+}
+.text__ccOhx {
+  display: block;
+  font-size: 14px;
+  text-align: center;
+  font-family: AppleSDGothicNeoB00;
+  font-weight: 400;
+  letter-spacing: -0.04em;
+  line-height: 1;
+  color: rgba(233, 233, 233, 1);
+  position: absolute;
+  top: 5px;
+  left: 47px;
+}
+.svg__iGgYt {
+  position: absolute;
+  object-fit: cover;
+  max-width: 100%;
+  color: #eaeaea;
+  width: 24px;
+  height: 24px;
+  display: block;
+  top: 0px;
+  left: 15px;
+  overflow: hidden;
+}
+.btnLoginKakao {
+  background: rgba(248, 223, 0, 1);
+  height: 48px;
+  display: block;
+  position: absolute;
+  left: 20px;
+  right: 20px;
+  bottom: 78px;
+  overflow: hidden;
+  border-radius: 8px;
+}
+.btnContents2 {
+  width: 211px;
+  height: 24px;
+  display: block;
+  position: absolute;
+  top: 13px;
+  left: 61px;
+  overflow: hidden;
+}
+.text__fvd4D {
+  display: block;
+  font-size: 14px;
+  text-align: center;
+  font-family: AppleSDGothicNeoB00;
+  font-weight: 400;
+  letter-spacing: -0.04em;
+  line-height: 1;
+  color: rgba(16, 16, 16, 1);
+  position: absolute;
+  top: 3px;
+  left: 48px;
+}
+.svg__gxw6Y {
+  position: absolute;
+  object-fit: cover;
+  max-width: 100%;
+  color: #111;
+  width: 24px;
+  height: 24px;
+  display: block;
+  top: 0px;
+  left: 15px;
+  overflow: hidden;
+}
+.logoBstclsWhite {
+  opacity: 0.85;
+  width: 118px;
+  height: 91px;
+  display: block;
+  position: absolute;
+  top: 150px;
+  left: 128px;
+}
+.logoBstText {
+  width: 118px;
+  height: 12px;
+  display: block;
+  position: absolute;
+  top: 79px;
+  left: 0px;
+  overflow: hidden;
+}
+.svg__jepMf {
+  position: absolute;
+  object-fit: cover;
+  max-width: 100%;
+  color: #f4f4f4;
+  transform: translate(-0.001px, -0.007px);
+  width: 117.549px;
+  height: 11.134px;
+  display: block;
+  top: 0px;
+  left: 0px;
+}
+.svg__yh4OR {
+  position: absolute;
+  object-fit: cover;
+  max-width: 100%;
+  color: #f4f4f4;
+  width: 60px;
+  height: 60px;
+  display: block;
+  top: 0px;
+  left: 28px;
+  overflow: hidden;
+}
+.btnLogin {
+  background: rgba(51, 51, 51, 1);
+  transform: translate(0px, 0.1279999999999859px);
+  height: 48px;
+  display: block;
+  position: absolute;
+  top: 455px;
+  left: 20px;
+  right: 20px;
+  overflow: hidden;
+  border-radius: 8px;
+}
+.btnContents3 {
+  width: 212px;
+  height: 24px;
+  display: block;
+  position: absolute;
+  top: 12px;
+  left: 61px;
+  overflow: hidden;
+}
+.login {
+  position: absolute;
+  top: 0px;
+  left: 22px;
+  width: 168px;
+  height: 24px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.text___4K6Hk {
+  display: block;
+  font-size: 14px;
+  text-align: center;
+  font-family: AppleSDGothicNeoB00;
+  font-weight: 400;
+  letter-spacing: -0.04em;
+  line-height: 1;
+  color: rgba(233, 233, 233, 1);
+}
+.text__hmdi5 {
+  opacity: 0.5;
+  display: block;
+  font-size: 14px;
+  text-decoration-line: underline;
+  font-family: AppleSDGothicNeoM00;
+  font-weight: 400;
+  letter-spacing: -0.04em;
+  line-height: 1;
+  color: rgba(111, 111, 111, 1);
+  position: absolute;
+  top: 78px;
+  left: 97px;
+}
+.inputPw {
+  height: 60px;
+  display: block;
+  position: absolute;
+  top: 365px;
+  left: 20px;
+  right: 20px;
+}
+.text__zLmXa {
+  display: block;
+  font-size: 16px;
+  font-family: AppleSDGothicNeoM00;
+  font-weight: 400;
+  letter-spacing: -0.04em;
+  line-height: 24px;
+  color: rgba(111, 111, 111, 1);
+  position: absolute;
+  left: 0%;
+  bottom: 12px;
+  width: 100%;
+}
+.category {
+  display: block;
+  font-size: 14px;
+  font-family: AppleSDGothicNeoM00;
+  font-weight: 400;
+  letter-spacing: -0.04em;
+  line-height: 1;
+  color: rgba(111, 111, 111, 1);
+  position: absolute;
+  top: 0px;
+  left: 0%;
+  width: 44.42%;
+}
+.svg___5W9Nh {
+  position: absolute;
+  object-fit: cover;
+  max-width: 100%;
+  color: #707070;
+  width: 335px;
+  height: 0px;
+  display: block;
+  top: 60px;
+  left: 0px;
+}
+.inputId {
+  height: 60px;
+  display: block;
+  position: absolute;
+  top: 285px;
+  left: 20px;
+  right: 20px;
+}
+.text2 {
+  display: block;
+  font-size: 16px;
+  font-family: AppleSDGothicNeoM00;
+  font-weight: 400;
+  letter-spacing: -0.04em;
+  line-height: 24px;
+  color: rgba(111, 111, 111, 1);
+  position: absolute;
+  left: 0%;
+  bottom: 12px;
+  width: 100%;
+}
+.category2 {
+  display: block;
+  font-size: 14px;
+  font-family: AppleSDGothicNeoM00;
+  font-weight: 400;
+  letter-spacing: -0.04em;
+  line-height: 1;
+  color: rgba(111, 111, 111, 1);
+  position: absolute;
+  top: 0px;
+  left: 0%;
+  width: 44.42%;
+}
+.svg___3TKfb {
+  position: absolute;
+  object-fit: cover;
+  max-width: 100%;
+  color: #707070;
+  width: 335px;
+  height: 0px;
+  display: block;
+  top: 60px;
+  left: 0px;
+}
